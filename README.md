@@ -2,8 +2,8 @@
 ##Modul 9 AdvancedWidget3
 
 ###Screenshoot aplikasi
-![aw3 1](https://cloud.githubusercontent.com/assets/23449098/21723925/259a5a9c-d3e7-11e6-936a-ee4dc4e37781.PNG)
-![aw2 1](https://cloud.githubusercontent.com/assets/23449098/21723926/25a34562-d3e7-11e6-8616-4ed81762a4d4.PNG)
+![aw2 1](https://cloud.githubusercontent.com/assets/23449098/21736124/44031e56-d423-11e6-890a-db254e14a849.PNG)
+![aw2](https://cloud.githubusercontent.com/assets/23449098/21736125/440bde10-d423-11e6-9522-6fcf8b3014c7.PNG)
 
 ###Identitas Diri
 #####Nama : Grandis Rufaidah
